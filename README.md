@@ -11,8 +11,9 @@ This project is a **Streamlit-based Intelligent Parcel Delivery & Pickup System*
 - Display delivery route maps
 - Maintain a blockchain-like hash for audit trails
 - Track parcel performance metrics
-## Demo
-[![Parcel Delivery System Demo]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg](https://drive.google.com/file/d/1ktLZLyC9cVw-Ql5LYwJwBNXC3dlx3tPJ/view?usp=drive_link))]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://drive.google.com/file/d/1ktLZLyC9cVw-Ql5LYwJwBNXC3dlx3tPJ/view?usp=drive_link))
+## 📹 Demo Video
+Watch the demo of the Intelligent Parcel Delivery System here:  
+[Demo Video on Google Drive](https://drive.google.com/file/d/1ktLZLyC9cVw-Ql5LYwJwBNXC3dlx3tPJ/view?usp=drive_link)
 
 ---
 ## Interface
